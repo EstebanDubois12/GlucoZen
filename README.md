@@ -39,7 +39,7 @@ python main.py
 
 ---
 
-## 🛠️ Fabriqué avec
+## Fabriqué avec
 
 - Langage : Python 3.10+  
 - Bibliothèques : customtkinter, tkcalendar, rapidfuzz, Pillow, CTkMessagebox  
