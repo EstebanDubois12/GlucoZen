@@ -1,5 +1,5 @@
 # GlucoZen
-GlucoZen est une application de bureau qui permet de consulter les données nutritionnelles de plus de 3 500 aliments (base Ciqual) et de composer des repas en calculant automatiquement les totaux glucidiques, protéiques, lipidiques et la dose d’insuline conseillée.
+GlucoZen est une application de bureau qui permet de consulter les données nutritionnelles de plus de 3 400 aliments (base Ciqual) et de composer des repas en calculant automatiquement les totaux glucidiques, protéiques, lipidiques et la dose d’insuline conseillée.
 
 # Pré-requis
 Avant de lancer l’application, assurez-vous que l’arborescence suivante est respectée :
@@ -72,5 +72,5 @@ La version actuelle est la **V1.0** – première version stable regroupant tout
 
 ### Licence
 
-Ce projet est distribué sous la licence **Apache 2.0 **.  
+Ce projet est distribué sous la licence **Apache 2.0**.  
 Voir le fichier **LICENSE** pour plus de détails.
