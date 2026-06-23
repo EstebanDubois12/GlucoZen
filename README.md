@@ -1,5 +1,27 @@
 # GlucoZen
-GlucoZen est une application de bureau qui permet de consulter les données nutritionnelles de plus de 3 400 aliments (base Ciqual) et de composer des repas en calculant automatiquement les totaux glucidiques, protéiques, lipidiques et la dose d’insuline conseillée.
+GlucoZen est une application de bureau conçue pour simplifier le suivi alimentaire des personnes diabétiques. Elle permet de rechercher des aliments issus de la base Ciqual 2025, de composer des repas et d'obtenir automatiquement leur composition nutritionnelle.
+
+---
+
+## Distinction
+
+Projet sélectionné pour la phase territoriale du Trophée NSI 2026 et récompensé par le Prix de l'Originalité.
+
+Cette sélection récompense un projet informatique développé dans le cadre de l'enseignement de spécialité Numérique et Sciences Informatiques, évalué pour son intérêt, sa conception et sa réalisation technique.
+
+---
+
+## Fonctionnalités principales
+
+- Recherche de plus de 3 400 aliments issus de la base Ciqual
+- Création et gestion d'aliments personnalisés
+- Composition de repas avec calcul nutritionnel automatique
+- Estimation indicative d'insuline selon les paramètres configurés
+- Historique des repas
+- Personnalisation du thème (clair/sombre/système)
+- Sauvegarde persistante des données
+  
+---
 
 # Pré-requis
 Avant de lancer l’application, assurez-vous que l’arborescence suivante est respectée :
@@ -43,22 +65,15 @@ python main.py
 
 - Langage : Python 3.10+  
 - Bibliothèques : customtkinter, tkcalendar, rapidfuzz, Pillow, CTkMessagebox  
-- Base de données : Table Ciqual 2025 (ANSS)  
+- Base de données : Table Ciqual 2025 (ANSES)  
 - Éditeur : Visual Studio Code / Pyzo  
 - Logo : Adobe Photoshop  
 
 ---
 
-## Versions
+## Version actuelle
 
-La version actuelle est la **V1.0** – première version stable regroupant toutes les fonctionnalités principales :
-
-- Recherche d’aliments (avec cache)  
-- Création et gestion d’aliments personnalisés  
-- Composition de repas avec calcul nutritionnel et suggestion d’insuline  
-- Historique des repas  
-- Personnalisation du thème (clair/sombre/systeme)  
-- Persistance des données (JSON)  
+La version actuelle est la **V1.0**, première version stable regroupant l'ensemble des fonctionnalités principales.
 
 ---
 
